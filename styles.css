@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Kenia&family=Lily+Script+One&family=Open+Sans:wght@300&family=Poppins:wght@100&display=swap');
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: 'Comfortaa', cursive;
+}
